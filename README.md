@@ -1,12 +1,12 @@
-<table>
+<table width="100%">
 <tr>
-<td width="220">
+<td width="220" height="220" align="center" valign="middle">
 
-<img src="foto.jpg" width="200">
+<img src="foto.jpg" width="200" height="200">
 
 </td>
 
-<td>
+<td valign="middle">
 
 # Enrique Bustamante
 
@@ -22,15 +22,15 @@
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td width="220">
+<td width="220" height="220" align="center" valign="middle">
 
-<img src="AC143FDD-244E-4573-B02D-34255ECE403F_1_102_a.jpeg" width="200">
+<img src="AC143FDD-244E-4573-B02D-34255ECE403F_1_102_a.jpeg" width="200" height="200">
 
 </td>
 
-<td>
+<td valign="middle">
 
 # Tomás Franco
 
@@ -46,23 +46,25 @@
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td width="220">
+<td width="220" height="220" align="center" valign="middle">
 
-<img src="roco.jpeg" width="200">
+<img src="roco.jpeg" width="200" height="200">
 
 </td>
 
-<td>
+<td valign="middle">
 
 # Rodrigo Barconte
 
 🎓 Estudiante de Desarrollo de Software en UADE.
 
-💻 Me interesa seguir aprendiendo sobre programación y nuevas tecnologías.
+💻 Actualmente aprendiendo Java y nuevas tecnologías.
 
 🎮 En mi tiempo libre disfruto de los videojuegos, la música y los deportes.
+
+💼 Me interesa seguir desarrollándome en el área de sistemas.
 
 </td>
 </tr>
