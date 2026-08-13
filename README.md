@@ -69,3 +69,28 @@
 </td>
 </tr>
 </table>
+
+<table width="100%">
+<tr>
+<td width="220" height="220" align="center" valign="middle">
+
+<img src="fotoinst.png" width="200" height="200">
+
+</td>
+
+<td width="auto" height="220" valign="middle">
+
+# Santiago Flotta Castro
+
+🎓 Estudiante de Desarrollo de Software en UADE.
+
+💻 Actualmente aprendiendo Java y lenguajes NoSQL.
+
+⚽ Juego al fútbol y al voley y practico MMA.
+
+💼 Me interesa seguir desarrollándome para dar el salto a ciberseguridad en un futuro.
+
+</td>
+</tr>
+</table>
+
