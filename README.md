@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td width="220">
-      <img src="roco.jpg" width="200">
+      <img src="roco.jpeg" width="200">
     </td>
 
   <td>
