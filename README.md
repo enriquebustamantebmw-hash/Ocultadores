@@ -26,21 +26,21 @@
 <tr>
 <td width="220">
 
-<img src="./AC143FDD-244E-4573-B02D-34255ECE403F_1_102_a.jpeg" width="200">
+<img src="AC143FDD-244E-4573-B02D-34255ECE403F_1_102_a.jpeg" width="200">
 
 </td>
 
 <td>
 
-# Sobre mí
+# Mi nombre es Tomás Franco
 
-Hola, soy Tomás y estudio **Desarrollo de Software en UADE**.
+🎓 Estudiante de Desarrollo de Software en UADE.
 
-Estoy aprendiendo sobre programación y distintas áreas de sistemas, y me gusta seguir incorporando cosas nuevas.
-
-Mi objetivo es empezar a trabajar en el área de **desarrollo o como Analista Funcional**.
+💻 Actualmente aprendiendo Java y Python.
 
 🎮 Me gustan los videojuegos, la tecnología y el deporte.
+
+💼 Me interesa trabajar en desarrollo de software o como Analista Funcional.
 
 </td>
 </tr>
