@@ -6,7 +6,7 @@
 
 </td>
 
-<td valign="middle">
+<td width="auto" height="220" valign="middle">
 
 # Enrique Bustamante
 
@@ -30,7 +30,7 @@
 
 </td>
 
-<td valign="middle">
+<td width="auto" height="220" valign="middle">
 
 # Tomás Franco
 
@@ -54,7 +54,7 @@
 
 </td>
 
-<td valign="middle">
+<td width="auto" height="220" valign="middle">
 
 # Rodrigo Barconte
 
