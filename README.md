@@ -38,7 +38,7 @@
 
 💻 Actualmente aprendiendo Java y SQL.
 
-🎮 Me gustan los videojuegos, la tecnología y el deporte.
+🎮 🎮 Me gustan los videojuegos, la tecnología, el deporte y aprender cosas nuevas.
 
 💼 Me gustaría empezar a trabajar en el área de sistemas.
 
