@@ -8,7 +8,7 @@
 
 <td>
 
-# Mi nombre es Enrique Bustamante
+# Enrique Bustamante
 
 🎓 Estudiante de Desarrollo de Software en UADE.
 
