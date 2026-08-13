@@ -32,15 +32,15 @@
 
 <td>
 
-# Mi nombre es Tomás Franco
+# Tomás Franco
 
 🎓 Estudiante de Desarrollo de Software en UADE.
 
-💻 Actualmente aprendiendo Java y Python.
+💻 Actualmente aprendiendo Java y SQL.
 
 🎮 Me gustan los videojuegos, la tecnología y el deporte.
 
-💼 Me interesa trabajar en desarrollo de software o como Analista Funcional.
+💼 Me gustaría empezar a trabajar en el área de sistemas.
 
 </td>
 </tr>
