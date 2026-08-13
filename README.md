@@ -47,26 +47,23 @@
 </table>
 
 <table>
-  <tr>
-    <td width="220">
-      <img src="roco.jpeg" width="200">
-    </td>
+<tr>
+<td width="220">
 
-  <td>
-      <h2>Rodrigo Barconte</h2>
+<img src="roco.jpeg" width="200">
 
-  <p>
-        Hola, soy Rodrigo Barconte, soy estudiante de la Tecnicatura en Desarrollo de Software en UADE.
-      </p>
+</td>
 
-  <p>
-         Me interesa seguir aprendiendo sobre programación y nuevas tecnologías.
-      </p>
+<td>
 
-  <p>
-        En mi tiempo libre disfruto de los videojuegos, la música y deportes.
-      </p>
+# Rodrigo Barconte
 
-  </td>
-  </tr>
+🎓 Estudiante de Desarrollo de Software en UADE.
+
+💻 Me interesa seguir aprendiendo sobre programación y nuevas tecnologías.
+
+🎮 En mi tiempo libre disfruto de los videojuegos, la música y los deportes.
+
+</td>
+</tr>
 </table>
