@@ -94,3 +94,24 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="220">
+
+<img src="mati.jpg" width="200">
+
+</td>
+
+<td>
+
+# Matias Rosental
+
+🎓 Estudiante de Ingenieria en Informatica en UADE.
+
+💻 Actualmente aprendiendo Java y Python.
+
+⚽ Me gusta ver futbol y practicar boxeo.
+
+</td>
+</tr>
+</table>
