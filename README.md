@@ -138,9 +138,4 @@
 </td>
 </tr>
 </table>
-
-<table width="100%">
-<tr>
-<td width="220" height="220" align="center" valign="middle">
-
 </td>
