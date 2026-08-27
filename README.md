@@ -74,7 +74,7 @@
 <tr>
 <td width="220" height="220" align="center" valign="middle">
 
-<img src="flotta.jpg" width="200" height="200">
+<img src="fotosantiago.jpg" width="200" height="200">
 
 </td>
 
