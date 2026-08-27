@@ -131,7 +131,7 @@
 
 💻 Actualmente aprendiendo Java, Python y HTML.
 
-🌐 Me interesan las páginas web, la programación, la tecnología y la inteligencia artificial.
+🌐 Me interesan las páginas web, la programación, la tecnología y la inteligencia artificial y me interesaria conseguir un laburo en sistemas.
 
 🎬 Apasionado por las películas y las nuevas tecnologías.
 
