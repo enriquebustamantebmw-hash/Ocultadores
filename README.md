@@ -115,3 +115,34 @@
 </td>
 </tr>
 </table>
+<table width="100%">
+<tr>
+<td width="220" height="220" align="center" valign="middle">
+
+<img src="foto.jpg" width="200" height="200">
+
+</td>
+
+<td width="auto" height="220" valign="middle">
+
+# Nicolás Hernández
+
+🎓 Estudiante de Licenciatura en Gestión de Tecnología de la Información.
+
+💻 Actualmente aprendiendo Java, Python y HTML.
+
+🌐 Me interesan las páginas web, la programación, la tecnología y la inteligencia artificial.
+
+🎬 Apasionado por las películas y las nuevas tecnologías.
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="220" height="220" align="center" valign="middle">
+
+<img src="fotonichernan1" width="200" height="200">
+
+</td>
