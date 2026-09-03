@@ -1,0 +1,3 @@
+TDA: Diccionario Simple
+Clave: Usuario
+Valor: Puntaje máximo
