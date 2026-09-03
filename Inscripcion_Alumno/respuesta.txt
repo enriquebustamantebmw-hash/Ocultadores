@@ -1,0 +1,3 @@
+TDA: Diccionario Múltiple
+Clave: Legajo
+Valor: Conjunto de Materias
