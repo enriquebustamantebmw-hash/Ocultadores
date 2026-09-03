@@ -1,0 +1,4 @@
+TDA: Diccionario Simple
+Clave: Dominio
+Valor: Dirección IP
+Ejemplo: google.com -> 142.250.190.46
