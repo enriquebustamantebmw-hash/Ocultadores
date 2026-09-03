@@ -1,0 +1,5 @@
+TDA sugerido: Diccionario Múltiple.
+
+Justificación:
+La clave "Bank" puede tener más de un valor asociado, por ejemplo "Banco" y "Orilla".
+Por eso no alcanza con un Diccionario Simple.
