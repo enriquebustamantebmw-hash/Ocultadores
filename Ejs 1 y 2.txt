@@ -1,0 +1,7 @@
+EJ 1 Y 2:
+1-
+Para evitar repeticiones utilizamos Pertenece(x), el cual comprueba si un elemento x se encuentra en el conjunto, dentro 
+de otros métodos, antes de realizar sus procesos que transforman el conjunto.
+
+2-
+No, debido al checkeo previo, el mencionado en el ej 1, simplemente responde con un mensaje y no modifica el conjunto
