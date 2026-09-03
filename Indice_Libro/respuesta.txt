@@ -1,0 +1,4 @@
+TDA: Diccionario Múltiple
+Clave: Palabra
+Valor: Conjunto de páginas
+Ejemplo: Recursión -> {12, 45, 88}
